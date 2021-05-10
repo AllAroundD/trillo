@@ -34,7 +34,7 @@ This is a site for a fictional company, featuring flexbox. This was part of the 
 
 ## Usage
 
-See above.
+Live site is [here](https://trillo-dm.netlify.app/). This is just a landing page and not all of the links are functional.
 
 <a id='toc-license'></a>
 
