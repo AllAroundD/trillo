@@ -20,7 +20,7 @@
 
 ## Description
 
-This is a site for a fictional company, featuring flexbox.
+This is a site for a fictional company, featuring flexbox. This was part of the Advanced CSS and Sass course by Jonas Schmedtman.
 
 <a id='toc-install'></a>
 
